@@ -1,0 +1,4 @@
+node_modules
+.next
+notes.txt
+pnpm-lock.yaml
